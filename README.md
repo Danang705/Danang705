@@ -1,4 +1,4 @@
-![Danang Rikzi ramadhan](img/header.png)
+![Danang Rikzi](img/header.png)
 
 
 ##### Skills
